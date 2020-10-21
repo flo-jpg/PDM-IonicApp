@@ -1,9 +1,9 @@
 
-Classbook application for students/teachers
+<b>Classbook application for students/teachers<b>
 
-The student can authenticate on the app to see all his grades.
+<i>The student can authenticate on the app to see all his grades.<i>
 
-For a subject,the teacher can add/remove or updte the grades of a specific student.
+<i>For a subject,the teacher can add/remove or updte the grades of a specific student.<i>
 
 Functionalities:
 
